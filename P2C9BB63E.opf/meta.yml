@@ -1,0 +1,31 @@
+id: P2C9BB63E
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG5341
+  instance_id: http://purl.bdrc.io/resource/IE1KG5341
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - ཤེར་སྙིང་གི་འགྲེལ་པ་སྔོན་མེད་ལེགས་བཤད།
+  alt_title:
+    zh-latn-pinyin-x-ndia:
+    - bo ruo bo luo mi duo xin jing ci jie
+  author: http://purl.bdrc.io/resource/P1428
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    b7231018809c448da1c0aaf75babead5:
+      title: པོད ༡་ཤེར་སྙིང་གི་འགྲེལ་པ་སྔོན་མེད་ལེགས་བཤད།
+      volume_number: 1
+      base_file: UT1KG5341_I1KG5403_0000.txt
+      reference: http://purl.bdrc.io/resource/VL9FC5DD7B4090394A
+      image_group: I1KG5403
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1KG5341
+  - http://purl.bdrc.io/resource/W1KG5341
+  ocr_software: Namsel
+created_at: '2021-12-22T10:48:51.546149'
+last_modified_at: '2021-12-22T10:48:51.546156'
